@@ -40,7 +40,7 @@ namespace WindowsFormsApp1
 
         public void PassValue(string strValue)
         {
-            textBox1.Text = "dcsdc";
+            textBox1.Text = "dcs22dc";
         }
     }
 }
